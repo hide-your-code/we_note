@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402162122657",
+    "project_id": "we-note-52d5c",
+    "storage_bucket": "we-note-52d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402162122657:android:67913eb0aa1bdfc57a55e0",
+        "android_client_info": {
+          "package_name": "com.minhdtm.example.we_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402162122657-c2u6kqnkmdh4a4cdoh27rdrhosetbr54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxoAjiLVSbfKeg9PtcL2D2ErH-Ej6xllM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402162122657-c2u6kqnkmdh4a4cdoh27rdrhosetbr54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

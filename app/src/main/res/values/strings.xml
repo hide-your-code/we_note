@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">We Note</string>
+
+    <string name="your_note">Your note</string>
+    <string name="another_users_note">Another users</string>
+    <string name="user_notes">%1$s\'s notes</string>
+    <string name="logout">Log out</string>
+    <string name="welcome">Welcome to We Note!</string>
+    <string name="hi">Hi, %1$s!</string>
+    <string name="fill_your_name_here">Fill your name here …</string>
+    <string name="go">Go</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_message_default">Some thing went wrong!</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="you_do_not_have_any_note">You don\'t have any note!</string>
+    <string name="user_does_not_have_any_note">%1$s doesn\'t have any note!</string>
+</resources>
